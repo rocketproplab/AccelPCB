@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=VDD Pin=U1-1
+Added Pin To Net: NetName=SCLK Pin=U1-4
+Added Pin To Net: NetName=MOSI Pin=U1-6
+Added Pin To Net: NetName=MISO Pin=U1-7
+Added Pin To Net: NetName=CS Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=VDD Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Room: Name=AccelPCB

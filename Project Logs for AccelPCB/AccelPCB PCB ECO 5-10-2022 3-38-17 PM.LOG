@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=R0-1
+Removed Pin From Net: NetName=GND Pin=R0-2
+Change Component Comment : Designator=R0 Old Comment=CRCW08050000Z0EA New Comment=0R 0805
+Added Pin To Net: NetName=VDD Pin=R0-1
+Added Pin To Net: NetName=VDD Pin=R0-2
+Added Room: Name=AccelPCB

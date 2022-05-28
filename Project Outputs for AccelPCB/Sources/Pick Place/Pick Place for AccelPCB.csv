@@ -1,0 +1,20 @@
+Altium Designer Pick and Place Locations
+C:\Users\dough\AppData\Local\TempReleases\Snapshot\1\Sources\Pick Place\Pick Place for AccelPCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/05/22
+Time:       15:50
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C2","0.1uF 0402","TopLayer","FP-GRM15-MFG","14.3510","33.1470","180","CAP CER 0.1UF 16V X7R 0402"
+"C1","0.1uF 0402","TopLayer","FP-GRM15-MFG","6.2230","30.3530","0","CAP CER 0.1UF 16V X7R 0402"
+"FB","100R 0805","TopLayer","RESC2013X50X30LL20T20","11.8110","33.9090","90",""
+"R1","75R 0805","TopLayer","RESC2013X50X30LL20T20","17.7800","31.2420","270",""
+"PWR1","LTST-S270KGKT","TopLayer","AVAG-HSMX-C190_V","17.7801","27.4319","270","LED Uni-Color Yellow, 65 mW, 20 mA, -40 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"U1","ADXL373","TopLayer","FP-CC-16-3-MFG","11.3030","29.3370","0",""
+"J1","39-30-0060","TopLayer","FP-39-30-0060-MFG","13.0810","13.7120","0","CONN HEADER R/A 6POS 4.2MM"

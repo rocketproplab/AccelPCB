@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=PWR? NewDesignator=PWR1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Net Name : Old Net Name=NetPWR?_1 New Net Name=NetPWR1_1
+Added Room: Name=AccelPCB

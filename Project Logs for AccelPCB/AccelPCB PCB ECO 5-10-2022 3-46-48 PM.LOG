@@ -1,0 +1,3 @@
+Change Component Comment : Designator=R0 Old Comment=0R 0805 New Comment=100R 0805
+Change Component Designator: OldDesignator=R0 NewDesignator=FB
+Added Room: Name=AccelPCB

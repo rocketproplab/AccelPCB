@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AccelPCB.PrjPcb]
+   Generated File[AccelPCB.TXT]
+   Generated File[AccelPCB.LDP]
+   Generated File[AccelPCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:52:33 PM On 5/10/2022

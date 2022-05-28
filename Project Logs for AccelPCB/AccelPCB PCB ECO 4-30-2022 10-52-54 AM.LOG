@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetPWR1_1 Pin=R1-1
+Removed Pin From Net: NetName=VDD Pin=R1-2
+Change Component Footprint: Designator=R1 Old Footprint=RESC1005X40X25ML05T10 New Footprint=RESC2013X50X30LL20T20
+Change Component Comment : Designator=R1 Old Comment=0402WGF750JTCE New Comment=75R 0805
+Change Managed Component Library Link : Designator=R1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=ED6B3C0A-CB27-46FB-958B-A8079658DD3A New ItemGUID=78462138-499A-4A0D-A527-3027AB8F838F Old RevisionGUID=56B77113-281E-4CA5-9ED7-96FDA1BCBF3C New RevisionGUID=B8426C4C-D616-46EA-83DD-42D624EF6A27
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC1005X40X25ML05T10"; UniqueID = "\RULCUDOH" ("\RULCUDOH")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=R0(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R0-1
+Added Pin To Net: NetName=GND Pin=R0-2
+Added Pin To Net: NetName=VDD Pin=R1-1
+Added Pin To Net: NetName=NetPWR1_1 Pin=R1-2
+Added Member To Class: ClassName=AccelPCB Member=Component R0 CRCW08050000Z0EA
+Added Room: Name=AccelPCB

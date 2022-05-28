@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MISO Pin=J1-2
+Removed Pin From Net: NetName=CS Pin=J1-5
+Added Pin To Net: NetName=CS Pin=J1-2
+Added Pin To Net: NetName=MISO Pin=J1-5
+Added Room: Name=AccelPCB

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VDD Pin=R0-1
+Removed Pin From Net: NetName=VDD Pin=U1-14
+Added Pin To Net: NetName=NetR0_1 Pin=R0-1
+Added Pin To Net: NetName=NetR0_1 Pin=U1-14
+Added Net: Name=NetR0_1
+Added Room: Name=AccelPCB

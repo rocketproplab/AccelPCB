@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=U1 Old Footprint=FP-RGT0016C-IPC_A New Footprint=FP-CC-16-3-MFG
+Change Component Comment : Designator=U1 Old Comment=MMA1725WR2 New Comment=ADXL373
+Added Pin To Net: NetName=CS Pin=J1-5
+Added Net: Name=CS
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO Pin=J1-3
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=J1-2
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SCLK Pin=J1-6
+Added Net: Name=SCLK
+Added Pin To Net: NetName=VDD Pin=J1-1
+Added Net: Name=VDD
+Added Room: Name=AccelPCB
